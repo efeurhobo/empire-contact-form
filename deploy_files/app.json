@@ -9,12 +9,12 @@
   "stack": "heroku-24",
   "env": {
     "BOT_TOKEN": {
-      "description": "Your Telegram Bot Token.",
+      "description": "7502929965:AAFRyfDzjiqteLij0YRFEEsj4o6wWh6CJ9M.",
       "required": true,
       "value": ""
     },
     "CHAT_ID": {
-      "description": "Your Telegram Chat Id.",
+      "description": "7128227681.",
       "required": true,
       "value": ""
     }
